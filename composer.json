@@ -1,18 +1,13 @@
 {
-    "name": "ioncu/laborator3",
-    "require-dev": {
-        "phpunit/phpunit": "^9.5"
-    },
-    "autoload": {
-        "psr-4": {
-            "Ioncu\\Laborator3\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "Ion Cucuietu",
-            "email": "ioncucuietu10@gmail.com"
-        }
-    ],
-    "require": {}
+  "name": "ioncu/laborator3",
+  "require-dev": {
+    "phpunit/phpunit": "^9.5"
+  },
+  "authors": [
+    {
+      "name": "Ion Cucuietu",
+      "email": "ioncucuietu10@gmail.com"
+    }
+  ],
+  "require": {}
 }
